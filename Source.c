@@ -87,3 +87,4 @@ int main() {
 	free(a);
 	free(frmas);
 	return 0;
+}
